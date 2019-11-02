@@ -1,2 +1,2 @@
 # Node-express-mysql
-Aplicação básica utilizando Node, Express e MySQL usando Sequelize. 
+Aplicação básica utilizando Node, Express e MySQL. 
